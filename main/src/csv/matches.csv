@@ -1,0 +1,3 @@
+# Stores details of matches played, in the following format:
+# MatchID | Team1ID | Team2ID | Score (1-2 format)
+1,1,2,3-0

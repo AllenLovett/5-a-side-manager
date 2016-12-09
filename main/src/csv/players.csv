@@ -1,0 +1,14 @@
+# Stores list of Players in the following format:
+# PlayerID | Name | Balance
+1,Allen Lovett,0
+2,Ricky Grice,10
+3,Ryan McCormack,0
+4,Glenn Edwards,2.50
+5,Alex Fisher,-5
+6,Liam Turrall,0
+7,Kieran Turrall,-7.50
+8,James Hosker,0
+9,Saheed Miah,0
+10,Craig Morris,-5
+11,Chris Simmons,0
+12,Giles Crowson,0

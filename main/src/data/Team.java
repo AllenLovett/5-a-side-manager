@@ -16,6 +16,7 @@ public class Team {
     private int player8;
     private int player9;
     private int player10;
+    private int score;
 
     public Team() {
     }
@@ -106,5 +107,13 @@ public class Team {
 
     public void setPlayer10(int player10) {
         this.player10 = player10;
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public void setScore(int score) {
+        this.score = score;
     }
 }
